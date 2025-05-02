@@ -1,0 +1,15 @@
+# Ignore preprocessed articles
+Preprocess_articles/
+
+# Ignore original articles
+orginal_articles/
+
+# Ignore TF-IDF features
+TF_IDF_Features/
+
+# Ignore FastText features
+FastText_Features/
+
+# Ignore FastText model binaries
+cc.km.300.bin
+cc.km.300.bin.gz
