@@ -2,7 +2,7 @@
 Preprocess_articles/
 
 # Ignore original articles
-original_articles/text
+original_articles/texts
 
 # Ignore TF-IDF features
 TF_IDF_Features/
