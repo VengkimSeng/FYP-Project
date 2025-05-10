@@ -13,3 +13,31 @@ FastText_Features/
 # Ignore FastText model binaries
 cc.km.300.bin
 cc.km.300.bin.gz
+
+# Mac system files
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
